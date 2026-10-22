@@ -1,0 +1,8 @@
+*.exe
+*.out
+*.o
+*.bin
+
+__pycache__/
+node_modules/
+venv/
